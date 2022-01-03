@@ -1,5 +1,5 @@
 # rtech-archive
-## An archive containing various models produced by the Roblox Tech Community
+## An archive/vault/conservation effort containing various models produced by the Roblox Tech Community
 
 ### What is the Roblox Tech Community?
 The RTECH or RTEC has emerged spontaneously many times, probably from the Pinewood Builders era, to the Ae Security and Orwae Groups, to a small isolated community that
@@ -21,3 +21,12 @@ The Fire Alarm community usually is
 A. Open source freemodels that work using an RFS script system with ObjectValues, Events, etc.
 B. Isolated open source paid or secretely distributed models given as files, typically given by CBA Alarm Technologies using a more advanced version of RFS
 C. Open source or obfuscated addressable original systems like Orwae Harmony, or Theta Valiant, using new BindableEvents instead of values
+
+Every model or place that is submitted must have:
+- A Story
+- A Date
+- A Name
+- Authenticity
+- Unobfuscated scripts
+- A file
+- Possible mesh files, can also be extracted
