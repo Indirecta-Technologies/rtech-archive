@@ -1,0 +1,1 @@
+This is Orwae's original HQ, given to everyone by Cole in the original 2020 Theta server
